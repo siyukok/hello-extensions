@@ -1,0 +1,11 @@
+{
+  "name": "hello-extensions",
+  "version": "1.0.0",
+  "description": "hello extensions",
+  "main": "index.js",
+  "author": "siyukok",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-types": "^0.1.170"
+  }
+}
